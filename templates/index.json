@@ -2517,7 +2517,7 @@
                     "letter_spacing": "normal",
                     "case": "none",
                     "wrap": "pretty",
-                    "text_color": "",
+                    "text_color": "{{ settings.color_palette.color7 }}",
                     "background": false,
                     "background_color": "#00000026",
                     "corner_radius": 0,
@@ -4868,7 +4868,7 @@
                         "letter_spacing": "normal",
                         "case": "none",
                         "wrap": "pretty",
-                        "text_color": "#10B981",
+                        "text_color": "{{ settings.color_palette.color6 }}",
                         "background": false,
                         "background_color": "#00000026",
                         "corner_radius": 0,
@@ -5115,7 +5115,7 @@
                 "letter_spacing": "normal",
                 "case": "none",
                 "wrap": "pretty",
-                "text_color": "{{ settings.color_palette.color6 }}",
+                "text_color": "{{ settings.color_palette.color7 }}",
                 "background": false,
                 "background_color": "#00000026",
                 "corner_radius": 0,
@@ -5436,7 +5436,7 @@
                             "width": 24,
                             "link": "",
                             "open_in_new_tab": false,
-                            "icon_color": ""
+                            "icon_color": "{{ settings.color_palette.color7 }}"
                           },
                           "blocks": {}
                         }
