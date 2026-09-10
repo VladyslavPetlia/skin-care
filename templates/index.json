@@ -1347,7 +1347,7 @@
                           "type": "text",
                           "name": "t:names.heading",
                           "settings": {
-                            "text": "<h2>1398</h2>",
+                            "text": "<h2>1398+</h2>",
                             "width": "fit-content",
                             "max_width": "normal",
                             "alignment": "left",
@@ -1368,24 +1368,10 @@
                             "padding-inline-end": 0
                           },
                           "blocks": {}
-                        },
-                        "icon_e9zqwr": {
-                          "type": "icon",
-                          "name": "t:names.icon",
-                          "settings": {
-                            "icon": "price_tag",
-                            "image_upload": "shopify://shop_images/plus-solid-full.svg",
-                            "width": 24,
-                            "link": "",
-                            "open_in_new_tab": false,
-                            "icon_color": ""
-                          },
-                          "blocks": {}
                         }
                       },
                       "block_order": [
-                        "text_BzU9eD",
-                        "icon_e9zqwr"
+                        "text_BzU9eD"
                       ]
                     },
                     "image_jaMfLM": {
@@ -1509,7 +1495,7 @@
                       "type": "text",
                       "name": "t:names.heading",
                       "settings": {
-                        "text": "<h2>180</h2>",
+                        "text": "<h2>180+</h2>",
                         "width": "fit-content",
                         "max_width": "normal",
                         "alignment": "left",
@@ -1530,24 +1516,10 @@
                         "padding-inline-end": 0
                       },
                       "blocks": {}
-                    },
-                    "icon_fbdA6E": {
-                      "type": "icon",
-                      "name": "t:names.icon",
-                      "settings": {
-                        "icon": "price_tag",
-                        "image_upload": "shopify://shop_images/plus-solid-full.svg",
-                        "width": 24,
-                        "link": "",
-                        "open_in_new_tab": false,
-                        "icon_color": ""
-                      },
-                      "blocks": {}
                     }
                   },
                   "block_order": [
-                    "text_Af9D6D",
-                    "icon_fbdA6E"
+                    "text_Af9D6D"
                   ]
                 },
                 "image_Ne6djB": {
@@ -1770,7 +1742,7 @@
                       "type": "text",
                       "name": "t:names.heading",
                       "settings": {
-                        "text": "<h2>92</h2>",
+                        "text": "<h2>92+</h2>",
                         "width": "fit-content",
                         "max_width": "normal",
                         "alignment": "left",
@@ -1791,24 +1763,10 @@
                         "padding-inline-end": 0
                       },
                       "blocks": {}
-                    },
-                    "icon_FGCcCQ": {
-                      "type": "icon",
-                      "name": "t:names.icon",
-                      "settings": {
-                        "icon": "price_tag",
-                        "image_upload": "shopify://shop_images/plus-solid-full.svg",
-                        "width": 24,
-                        "link": "",
-                        "open_in_new_tab": false,
-                        "icon_color": ""
-                      },
-                      "blocks": {}
                     }
                   },
                   "block_order": [
-                    "text_cKgMN8",
-                    "icon_FGCcCQ"
+                    "text_cKgMN8"
                   ]
                 }
               },
