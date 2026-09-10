@@ -3536,7 +3536,7 @@
                           "type": "text",
                           "name": "t:names.heading",
                           "settings": {
-                            "text": "<h4>New arrivals</h4>",
+                            "text": "<h5>Elevate Your Routine</h5>",
                             "width": "fit-content",
                             "max_width": "normal",
                             "alignment": "left",
@@ -3634,7 +3634,7 @@
                           "type": "text",
                           "name": "t:names.heading",
                           "settings": {
-                            "text": "<h4>60ML</h4>",
+                            "text": "<p>60ML</p>",
                             "width": "fit-content",
                             "max_width": "normal",
                             "alignment": "left",
@@ -3797,7 +3797,7 @@
                             "width": "fit-content",
                             "max_width": "normal",
                             "alignment": "left",
-                            "type_preset": "h4",
+                            "type_preset": "h5",
                             "font": "var(--font-body--family)",
                             "font_size": "1rem",
                             "line_height": "normal",
@@ -4048,7 +4048,7 @@
                           "type": "text",
                           "name": "t:names.heading",
                           "settings": {
-                            "text": "<h4>New arrivals</h4>",
+                            "text": "<h5>Naturally Vibrant Hair</h5>",
                             "width": "fit-content",
                             "max_width": "normal",
                             "alignment": "left",
@@ -4146,7 +4146,7 @@
                           "type": "text",
                           "name": "t:names.heading",
                           "settings": {
-                            "text": "<h4>60ML</h4>",
+                            "text": "<p>60ML</p>",
                             "width": "fit-content",
                             "max_width": "normal",
                             "alignment": "left",
