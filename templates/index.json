@@ -2945,7 +2945,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h2>New arrivals</h2>",
+                "text": "<h3>Essential Body Care for All-Day Hydration and Radiant Skin</h3>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -2971,7 +2971,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>We make things that work better and last longer. Our products solve real problems with clean design and honest materials.</p>",
+                "text": "<p>Body care products play a crucial role in maintaining overall skin health and protecting the protective moisture barrier. Regular nourishment locks in essential hydration while effectively preventing dryness, rough texture, and irritation from head to toe.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
