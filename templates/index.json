@@ -2494,7 +2494,7 @@
                   "name": "t:names.icon",
                   "settings": {
                     "icon": "price_tag",
-                    "image_upload": "shopify://shop_images/arrow-up-right.svg",
+                    "image_upload": "shopify://shop_images/arrow-up-right_a5ad9cb8-cd43-41a9-b0e8-31e6da31b344.svg",
                     "width": 24,
                     "link": "",
                     "open_in_new_tab": false,
@@ -5432,7 +5432,7 @@
                           "name": "t:names.icon",
                           "settings": {
                             "icon": "price_tag",
-                            "image_upload": "shopify://shop_images/arrow-up-right.svg",
+                            "image_upload": "shopify://shop_images/arrow-up-right_a5ad9cb8-cd43-41a9-b0e8-31e6da31b344.svg",
                             "width": 24,
                             "link": "",
                             "open_in_new_tab": false,
