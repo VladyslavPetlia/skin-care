@@ -2310,7 +2310,7 @@
                       "type": "text",
                       "name": "t:names.heading",
                       "settings": {
-                        "text": "<h4>Hazel Toner</h4>",
+                        "text": "<h4>Hair Care</h4>",
                         "width": "fit-content",
                         "max_width": "normal",
                         "alignment": "left",
@@ -2400,7 +2400,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Witch hazel, a natural plant extract, is known for its ability to cleanse the skin, reduce excess oil, and tighten pores without over drying.</p>",
+                    "text": "<p>Hair care products play a crucial role in maintaining scalp health and protecting the hair shaft.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -2691,7 +2691,7 @@
                       "type": "text",
                       "name": "t:names.heading",
                       "settings": {
-                        "text": "<h4>Face Cream</h4>",
+                        "text": "<h4>Face Care</h4>",
                         "width": "fit-content",
                         "max_width": "normal",
                         "alignment": "left",
@@ -2781,7 +2781,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Face creams play a crucial role in maintaining skin hydration and protecting the skin barrier.</p>",
+                    "text": "<p>Face care products play a crucial role in maintaining skin health and protecting the facial barrier.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
