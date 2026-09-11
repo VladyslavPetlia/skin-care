@@ -2004,6 +2004,19 @@
                   },
                   "blocks": {}
                 },
+                "review_cEqFyz": {
+                  "type": "review",
+                  "name": "t:names.product_review_stars",
+                  "settings": {
+                    "stars_style": "shaded",
+                    "show_number": true,
+                    "text_color": "",
+                    "type_preset": "paragraph",
+                    "width": "100%",
+                    "alignment": "left"
+                  },
+                  "blocks": {}
+                },
                 "price_3egrLP": {
                   "type": "price",
                   "name": "t:names.product_price",
@@ -2030,6 +2043,7 @@
               },
               "block_order": [
                 "product_title_hKWFpj",
+                "review_cEqFyz",
                 "price_3egrLP"
               ]
             }
