@@ -924,7 +924,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h2>Our signature product</h2>",
+                "text": "<h3>{{ closest.product.metafields.custom.daily_routine_title.value }}</h3>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -949,7 +949,7 @@
             "text_cDJNFt": {
               "type": "text",
               "settings": {
-                "text": "<p>Made with care and unconditionally loved by our customers, this signature bestseller exceeds all expectations.</p>",
+                "text": "<p>{{ closest.product.metafields.custom.daily_routine_text | metafield_tag }}</p>",
                 "width": "fit-content",
                 "max_width": "narrow",
                 "alignment": "left",
@@ -980,6 +980,7 @@
         "image_LJ9Ryb": {
           "type": "image",
           "settings": {
+            "image": "{{ closest.product.metafields.custom.daily_routine_image.value }}",
             "link": "",
             "image_ratio": "square",
             "width": "fill",
