@@ -227,18 +227,9 @@
               },
               "blocks": {}
             },
-            "review_B3NFqy": {
-              "type": "review",
-              "name": "t:names.product_review_stars",
-              "settings": {
-                "stars_style": "shaded",
-                "show_number": true,
-                "text_color": "",
-                "type_preset": "paragraph",
-                "width": "100%",
-                "alignment": "left"
-              },
-              "blocks": {}
+            "judge_me_reviews_preview_badge_V8x3ze": {
+              "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+              "settings": {}
             },
             "variant_picker_R3rGDr": {
               "type": "variant-picker",
@@ -666,7 +657,7 @@
             "divider_VJhene",
             "sku_wR6PNE",
             "product_inventory_MX4eMC",
-            "review_B3NFqy",
+            "judge_me_reviews_preview_badge_V8x3ze",
             "variant_picker_R3rGDr",
             "buy_buttons_eYQEYi",
             "payment_icons_96ineF",
@@ -819,18 +810,9 @@
                   },
                   "blocks": {}
                 },
-                "review_HrVaF7": {
-                  "type": "review",
-                  "name": "t:names.product_review_stars",
-                  "settings": {
-                    "stars_style": "shaded",
-                    "show_number": true,
-                    "text_color": "",
-                    "type_preset": "paragraph",
-                    "width": "100%",
-                    "alignment": "left"
-                  },
-                  "blocks": {}
+                "judge_me_reviews_preview_badge_NxQX8g": {
+                  "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+                  "settings": {}
                 },
                 "price_8fjXAE": {
                   "type": "price",
@@ -858,7 +840,7 @@
               },
               "block_order": [
                 "product_title_4RKxjk",
-                "review_HrVaF7",
+                "judge_me_reviews_preview_badge_NxQX8g",
                 "price_8fjXAE"
               ]
             }
