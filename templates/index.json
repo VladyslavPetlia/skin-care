@@ -996,7 +996,7 @@
                 "background_color": "#00000026",
                 "corner_radius": 0,
                 "padding-block-start": 0,
-                "padding-block-end": 16,
+                "padding-block-end": 20,
                 "padding-inline-start": 0,
                 "padding-inline-end": 0
               },
@@ -2229,22 +2229,22 @@
                 "background_color": "",
                 "video_position": "cover",
                 "background_image_position": "cover",
-                "toggle_overlay": false,
-                "overlay_color": "#00000026",
+                "toggle_overlay": true,
+                "overlay_color": "{{ settings.color_palette.color7 }}",
                 "overlay_style": "solid",
                 "gradient_direction": "to top",
                 "border": "none",
                 "border_width": 1,
                 "border_opacity": 100,
                 "border_color": "",
-                "border_radius": 0,
+                "border_radius": 8,
                 "link": "shopify://collections/hair-care",
                 "open_in_new_tab": false,
                 "placeholder": "",
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
+                "padding-block-start": 15,
+                "padding-block-end": 15,
+                "padding-inline-start": 15,
+                "padding-inline-end": 15
               },
               "blocks": {
                 "image_Kq3LwU": {
@@ -2655,22 +2655,22 @@
                 "background_color": "",
                 "video_position": "cover",
                 "background_image_position": "cover",
-                "toggle_overlay": false,
-                "overlay_color": "#00000026",
+                "toggle_overlay": true,
+                "overlay_color": "{{ settings.color_palette.color7 }}",
                 "overlay_style": "solid",
                 "gradient_direction": "to top",
                 "border": "none",
                 "border_width": 1,
                 "border_opacity": 100,
                 "border_color": "",
-                "border_radius": 0,
+                "border_radius": 8,
                 "link": "shopify://collections/face-care",
                 "open_in_new_tab": false,
                 "placeholder": "",
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
+                "padding-block-start": 15,
+                "padding-block-end": 15,
+                "padding-inline-start": 15,
+                "padding-inline-end": 15
               },
               "blocks": {
                 "image_J7BCtH": {
@@ -3352,7 +3352,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h2>New arrivals</h2>",
+                "text": "<h3>New arrivals</h3>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -4331,7 +4331,7 @@
             "background_color": "#00000026",
             "corner_radius": 0,
             "padding-block-start": 0,
-            "padding-block-end": 0,
+            "padding-block-end": 20,
             "padding-inline-start": 0,
             "padding-inline-end": 0
           },
@@ -4344,7 +4344,7 @@
           "settings": {
             "alignment": "left",
             "gap": 8,
-            "background_color": "",
+            "background_color": "{{ settings.color_palette.color7 }}",
             "border": "none",
             "border_width": 1,
             "border_opacity": 100,
@@ -4388,8 +4388,8 @@
                 "text_color": "",
                 "padding-block-start": 0,
                 "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
+                "padding-inline-start": 15,
+                "padding-inline-end": 15
               },
               "blocks": {}
             },
@@ -4406,8 +4406,8 @@
                 "show_alignment": false,
                 "padding-block-start": 0,
                 "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
+                "padding-inline-start": 15,
+                "padding-inline-end": 15
               },
               "blocks": {}
             },
@@ -4425,9 +4425,9 @@
                 "wrap": "pretty",
                 "text_color": "",
                 "padding-block-start": 8,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
+                "padding-block-end": 15,
+                "padding-inline-start": 15,
+                "padding-inline-end": 15
               },
               "blocks": {}
             }
@@ -4470,7 +4470,7 @@
             "horizontal_alignment_flex_direction_column": "center",
             "vertical_alignment_flex_direction_column": "center",
             "gap": 30,
-            "width": "fit-content",
+            "width": "fill",
             "custom_width": 100,
             "width_mobile": "fill",
             "custom_width_mobile": 100,
@@ -4542,7 +4542,7 @@
                   "type": "text",
                   "name": "t:names.heading",
                   "settings": {
-                    "text": "<h2>Before & After</h2>",
+                    "text": "<h3>Before & After</h3>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -4720,7 +4720,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h2>Find out the secret to 3-second skincare.</h2>",
+                "text": "<h3>Find out the secret to 3-second skincare.</h3>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
