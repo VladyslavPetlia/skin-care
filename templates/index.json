@@ -2238,7 +2238,7 @@
                 "border_opacity": 100,
                 "border_color": "",
                 "border_radius": 0,
-                "link": "",
+                "link": "shopify://collections/hair-care",
                 "open_in_new_tab": false,
                 "placeholder": "",
                 "padding-block-start": 0,
@@ -2664,7 +2664,7 @@
                 "border_opacity": 100,
                 "border_color": "",
                 "border_radius": 0,
-                "link": "",
+                "link": "shopify://collections/face-care",
                 "open_in_new_tab": false,
                 "placeholder": "",
                 "padding-block-start": 0,
@@ -3891,18 +3891,9 @@
                           },
                           "blocks": {}
                         },
-                        "review_HTTKVQ": {
-                          "type": "review",
-                          "name": "t:names.product_review_stars",
-                          "settings": {
-                            "stars_style": "shaded",
-                            "show_number": true,
-                            "text_color": "",
-                            "type_preset": "paragraph",
-                            "width": "100%",
-                            "alignment": "left"
-                          },
-                          "blocks": {}
+                        "judge_me_reviews_preview_badge_VYNjCn": {
+                          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+                          "settings": {}
                         },
                         "price_TDyfRy": {
                           "type": "price",
@@ -3930,7 +3921,7 @@
                       },
                       "block_order": [
                         "product_title_jpH6Fq",
-                        "review_HTTKVQ",
+                        "judge_me_reviews_preview_badge_VYNjCn",
                         "price_TDyfRy"
                       ]
                     }
