@@ -222,18 +222,9 @@
                   },
                   "blocks": {}
                 },
-                "review_jpeXGa": {
-                  "type": "review",
-                  "name": "t:names.product_review_stars",
-                  "settings": {
-                    "stars_style": "shaded",
-                    "show_number": true,
-                    "text_color": "",
-                    "type_preset": "paragraph",
-                    "width": "100%",
-                    "alignment": "left"
-                  },
-                  "blocks": {}
+                "judge_me_reviews_preview_badge_6zheeG": {
+                  "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+                  "settings": {}
                 },
                 "price_wXCFHe": {
                   "type": "price",
@@ -261,7 +252,7 @@
               },
               "block_order": [
                 "product_title_APUMaC",
-                "review_jpeXGa",
+                "judge_me_reviews_preview_badge_6zheeG",
                 "price_wXCFHe"
               ]
             }
