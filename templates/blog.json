@@ -43,7 +43,7 @@
           "static": true,
           "settings": {
             "alignment": "left",
-            "background_color": "{{ settings.color_palette.color7 }}"
+            "background_color": ""
           },
           "blocks": {
             "image": {
