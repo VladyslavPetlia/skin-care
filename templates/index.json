@@ -1309,7 +1309,7 @@
                       "settings": {
                         "content_direction": "row",
                         "vertical_on_mobile": true,
-                        "horizontal_alignment": "center",
+                        "horizontal_alignment": "flex-start",
                         "vertical_alignment": "center",
                         "align_baseline": false,
                         "horizontal_alignment_flex_direction_column": "flex-start",
@@ -1378,7 +1378,7 @@
                       "type": "image",
                       "name": "t:names.image",
                       "settings": {
-                        "image": "shopify://shop_images/pexels-shobhit-bajpai-3360406-5128003.avif",
+                        "image": "shopify://shop_images/fleur-kaan-w4Dj3MshHQ0-unsplash.avif",
                         "link": "",
                         "image_ratio": "adapt",
                         "width": "fit-content",
