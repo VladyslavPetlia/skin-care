@@ -45,8 +45,6 @@
             assign platform = 'tumblr'
           when 'vimeo_url'
             assign platform = 'vimeo'
-          when 'github_url'
-            assign platform = 'github'
           when 'custom_url'
             # For custom URLs, extract domain from URL for platform identification
             assign platform = link_url | split: '//' | last | remove: 'www.' | split: '.' | first
@@ -246,11 +244,6 @@
       "type": "url",
       "id": "vimeo_url",
       "label": "t:options.vimeo"
-    },
-    {
-      "type": "url",
-      "id": "github_url",
-      "label": "Github"
     },
     {
       "type": "url",

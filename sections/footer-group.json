@@ -185,10 +185,7 @@
                       "blocks": {}
                     }
                   },
-                  "block_order": [
-                    "text_YiGtFR",
-                    "text_WcNYrP"
-                  ]
+                  "block_order": ["text_YiGtFR", "text_WcNYrP"]
                 },
                 "email_signup_eKzJdw": {
                   "type": "email-signup",
@@ -289,9 +286,7 @@
                       "blocks": {}
                     }
                   },
-                  "block_order": [
-                    "text_C7PrdE"
-                  ]
+                  "block_order": ["text_C7PrdE"]
                 }
               },
               "block_order": [
@@ -444,11 +439,7 @@
                       "blocks": {}
                     }
                   },
-                  "block_order": [
-                    "menu_pxFtRJ",
-                    "menu_y4Nird",
-                    "menu_xLKtg4"
-                  ]
+                  "block_order": ["menu_pxFtRJ", "menu_y4Nird", "menu_xLKtg4"]
                 },
                 "payment_icons_LYHfW3": {
                   "type": "payment-icons",
@@ -464,21 +455,13 @@
                   "blocks": {}
                 }
               },
-              "block_order": [
-                "group_pw9FDQ",
-                "payment_icons_LYHfW3"
-              ]
+              "block_order": ["group_pw9FDQ", "payment_icons_LYHfW3"]
             }
           },
-          "block_order": [
-            "group_attWKT",
-            "group_G93ipF"
-          ]
+          "block_order": ["group_attWKT", "group_G93ipF"]
         }
       },
-      "block_order": [
-        "group_pqrPPf"
-      ],
+      "block_order": ["group_pqrPPf"],
       "name": "t:names.footer",
       "settings": {
         "section_width": "page-width",
@@ -526,7 +509,6 @@
             "pinterest_url": "",
             "tumblr_url": "",
             "vimeo_url": "",
-            "github_url": "https://github.com/VladyslavPetlia",
             "custom_url": ""
           },
           "blocks": {}
@@ -549,8 +531,5 @@
       }
     }
   },
-  "order": [
-    "footer_m9NzUG",
-    "footer_utilities_jLGE8U"
-  ]
+  "order": ["footer_m9NzUG", "footer_utilities_jLGE8U"]
 }
