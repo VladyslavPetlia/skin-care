@@ -601,7 +601,7 @@
                 "vertical_alignment_flex_direction_column": "center",
                 "gap": 12,
                 "width": "custom",
-                "custom_width": 25,
+                "custom_width": 20,
                 "width_mobile": "fill",
                 "custom_width_mobile": 100,
                 "height": "fit",
@@ -693,24 +693,10 @@
                         "padding-inline-end": 0
                       },
                       "blocks": {}
-                    },
-                    "icon_npf4jY": {
-                      "type": "icon",
-                      "name": "t:names.icon",
-                      "settings": {
-                        "icon": "arrow",
-                        "image_upload": "shopify://shop_images/arrow-circle-up-right.svg",
-                        "width": 32,
-                        "link": "",
-                        "open_in_new_tab": false,
-                        "icon_color": ""
-                      },
-                      "blocks": {}
                     }
                   },
                   "block_order": [
-                    "text_Up8PXJ",
-                    "icon_npf4jY"
+                    "text_Up8PXJ"
                   ]
                 },
                 "group_4zPGmp": {
@@ -804,11 +790,25 @@
                         "padding-inline-end": 0
                       },
                       "blocks": {}
+                    },
+                    "icon_9QhHgf": {
+                      "type": "icon",
+                      "name": "t:names.icon",
+                      "settings": {
+                        "icon": "price_tag",
+                        "image_upload": "shopify://shop_images/arrow-circle-up-right.svg",
+                        "width": 24,
+                        "link": "",
+                        "open_in_new_tab": false,
+                        "icon_color": ""
+                      },
+                      "blocks": {}
                     }
                   },
                   "block_order": [
                     "text_ArxMcz",
-                    "text_KRkaBh"
+                    "text_KRkaBh",
+                    "icon_9QhHgf"
                   ]
                 },
                 "group_QMFkJz": {
